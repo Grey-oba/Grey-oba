@@ -8,7 +8,6 @@ My journey in data science has led me to develop a passion for machine learning,
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
