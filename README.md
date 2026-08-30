@@ -13,7 +13,7 @@ My journey in data science has led me to develop a passion for machine learning,
 |-----------------------------------------------|----------------------------|
 | Machine Learning Modelling        | <a href="https://google.com">Model Evaluation & Regression Pipeline</a>|
 | Data Engineering (PostgreSQL, Pipelines) | <a href="https://github.com/Akindih/AccessBell">Accessible Security System Database</a>|
-| Analytics & Visualisation       | NHS A&E Forecasting Analysis| Alcohol & ASPD (Antisocial Personality Disorder) Research |
+| Analytics & Visualisation       | NHS A&E Forecasting Analysis | Alcohol & ASPD (Antisocial Personality Disorder) Research |
 | UI Integration for Data Insights     | Dashboard Analytics Project|
 | Statistical Analysis | Alcohol & ASPD (Antisocial Personality Disorder) Research |
 
