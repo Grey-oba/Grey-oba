@@ -13,7 +13,7 @@ My journey in data science has led me to develop a passion for machine learning,
 |-----------------------------------------------|----------------------------|
 | Machine Learning Modelling        | <a href="https://google.com">Model Evaluation & Regression Pipeline</a>|
 | Data Engineering (PostgreSQL, Pipelines) | <a href="https://github.com/Akindih/AccessBell">Accessible Security System</a>|
-| Analytics & Visualisation       | NHS A&E Forecasting Analysis _and_ Alcohol & ASPD (Antisocial Personality Disorder) Research |
+| Analytics & Visualisation       | <a href="https://github.com/Grey-oba/NHS-Accident-and-Emergency-Analysis.git">NHS A&E Forecast and Analysis</a> _and_ <a href="https://github.com/Grey-oba/Alcohol-and-ASPD-Correlation-Research/">Alcohol & ASPD (Antisocial Personality Disorder) Research</a> |
 | UI Integration for Data Insights     | Dashboard Analytics Project|
 | Statistical Analysis | <a href="https://github.com/Grey-oba/Alcohol-and-ASPD-Correlation-Research/">Alcohol & ASPD (Antisocial Personality Disorder) Research</a> |
 
@@ -42,6 +42,6 @@ My journey in data science has led me to develop a passion for machine learning,
 - SQL
 
 ## Projects
-- NHS A&E Forecasting Analysis
+- <a href="https://github.com/Grey-oba/NHS-Accident-and-Emergency-Analysis.git">NHS A&E Forecast and Analysis</a>
 - <a href="https://github.com/Akindih/AccessBell">Accessible Security System</a>
 - <a href="https://github.com/Grey-oba/Alcohol-and-ASPD-Correlation-Research/">Alcohol & ASPD (Antisocial Personality Disorder) Research Poster</a>
