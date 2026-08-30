@@ -4,7 +4,7 @@
 I am a final‑year Data Science & AI student with a strong interest in working across the data stack, from engineering pipelines to modelling and analytics and improving fairness in AI. My dissertation investigates methods for mitigating bias in LLM outputs, combining evaluation, modelling, and end‑to‑end workflow design.
 
 ## Objective
-My journey in data science has led me to develop a passion for machine learning, and I’m looking to transition into data engineering, analytics, or ML modelling roles after graduation, where I can design scalable pipelines, build trustworthy models, and turn complex data into clear, actionable insight.
+My journey in data science has led me to develop a passion for machine learning, and I’m aiming to transition into data engineering, analytics, or ML modelling roles after graduation, where I can design scalable pipelines, build reliable models, and turn complex data into clear, actionable insights.
 
 
 ## Skills
