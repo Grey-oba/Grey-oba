@@ -11,7 +11,7 @@ My journey in data science has led me to develop a passion for machine learning,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Machine Learning Modelling        | <a href="https://google.com">Model Evaluation & Regression Pipeline</a>|
+| Machine Learning Modelling        | Model Evaluation & Regression Pipeline|
 | Data Engineering (PostgreSQL, Pipelines) | <a href="https://github.com/Akindih/AccessBell">Accessible Security System</a>|
 | Analytics & Visualisation       | <a href="https://github.com/Grey-oba/NHS-Accident-and-Emergency-Analysis.git">NHS A&E Forecast and Analysis</a> _and_ <a href="https://github.com/Grey-oba/Alcohol-and-ASPD-Correlation-Research/">Alcohol & ASPD (Antisocial Personality Disorder) Research</a> |
 | UI Integration for Data Insights     | Dashboard Analytics Project|
