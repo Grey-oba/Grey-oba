@@ -21,18 +21,25 @@ My journey in data science has led me to develop a passion for machine learning,
 ## Tools
 **Data Engineering**
 - PostgreSQL
-- SQL
+- Oracle
 - Pandas
 - ETL workflows
 
 **Machine Learning**
 - scikit‑learn
+- TensorFlow
 - NumPy
 
 **Analytics & Visualisation**
 - Matplotlib
 - Seaborn
+- Plotly
 - Tableau
+
+## Programming Languages
+- Python
+- R
+- SQL
 
 ## Projects
 - NHS A&E Forecasting Analysis
