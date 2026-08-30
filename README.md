@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Dara
+## Hi there, I'm Dara👋 
 <a href="https://www.linkedin.com/in/olusa-igbagbo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a final‑year Data Science & AI student with a strong interest in working across the data stack, from engineering pipelines to modelling and analytics and improving fairness in AI. My dissertation investigates methods for mitigating bias in LLM outputs, combining evaluation, modelling, and end‑to‑end workflow design.
