@@ -20,8 +20,7 @@ My journey in data science has led me to develop a passion for machine learning,
 
 ## Tools
 **Data Engineering**
-- PostgreSQL
-- Oracle
+- SQL (PostgreSQL, Oracle)
 - Pandas
 - ETL workflows
 
@@ -35,6 +34,7 @@ My journey in data science has led me to develop a passion for machine learning,
 - Seaborn
 - Plotly
 - Tableau
+- Excel
 
 ## Programming Languages
 - Python
