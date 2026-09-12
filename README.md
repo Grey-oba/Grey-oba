@@ -1,10 +1,10 @@
 ## Hi there, I'm Dara👋 
 <a href="https://www.linkedin.com/in/olusa-igbagbo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a final‑year Data Science & AI student with a strong interest in working across the data stack, from engineering pipelines to modelling and analytics and improving fairness in AI. Currently working on my dissertation, which investigates methods for mitigating bias in LLM outputs, combining evaluation, modelling, and end‑to‑end workflow design.
+I am a final‑year Data Science & AI student with a strong interest in working across the data stack, from engineering pipelines to modelling and analytics and improving fairness in AI. Currently working on my dissertation, which investigates how data imputation methods impact the safety of healthcare AI, combining statistical evaluation and predictive system development.
 
 ## Objective
-My journey in data science has led me to develop a passion for machine learning, and I’m aiming to transition into data engineering, analytics, or ML modelling roles after graduation, where I can design scalable pipelines, build reliable models, and turn complex data into clear, actionable insights.
+My journey in data science has developed my passion for machine learning and end-to-end data solutions. I’m aiming to leverage these skills in a _**Data Scientist**_, _**ML Engineer**_, or _**Data Engineer**_ role after graduation, where I can design robust data pipelines, build and evaluate reliable models, and translate complex algorithmic outputs into impactful business solutions.
 
 
 ## Skills
